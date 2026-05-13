@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" onload="alert('canary')">
-  <script type="text/javascript">alert('scanner-canary')</script>
-  <a href="javascript:alert('link')"><text x="4" y="20">badge</text></a>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" role="img" aria-labelledby="title desc">
+  <title id="title">Safe BYOS demo badge</title>
+  <desc id="desc">Static badge used by the BYOS sync demonstration skill.</desc>
+  <rect width="160" height="48" rx="6" fill="#0f62fe"/>
+  <text x="16" y="30" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">BYOS Sync OK</text>
 </svg>

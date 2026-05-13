@@ -1,0 +1,5 @@
+Safe BYOS sync demo asset.
+
+This file is used by scanner-active-assets-lab to demonstrate that ordinary
+local text assets can be synchronized and summarized without triggering active
+content or prompt-injection scanner rules.

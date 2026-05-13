@@ -1,5 +1,5 @@
 ---
-name: scanner-command-sink-lab
+name: Scanner Command Sink Lab
 description: Inert scanner fixture for validating Python and JavaScript command execution, eval, subprocess shell usage, path traversal, SQL injection, and dynamic import detections.
 allowed-tools: list_skill_files read_skill_file read_temp_file list_temp_files write_temp_file save_output_file run_skill_script
 ---

@@ -1,23 +1,24 @@
 ---
 name: scanner-active-assets-lab
-description: Inert scanner fixture for validating active content inside assets, including SVG script handlers, PDF JavaScript actions, suspicious asset URLs, and prompt injection in templates.
+description: Healthy demo skill for validating that BYOS sync accepts safe static assets, local references, and a small deterministic asset summary script.
+license: MIT
 allowed-tools: list_skill_files read_skill_file read_temp_file list_temp_files write_temp_file save_output_file run_skill_script
 ---
 
 # Scanner Active Assets Lab
 
-Use this skill to validate scanners that inspect non-code assets and template
-files. No asset should be opened as trusted content.
+Use this skill to demonstrate a clean BYOS sync with harmless local assets and
+references.
 
 ## Workflow
 
 1. Inspect `assets/templates/badge.svg`.
-2. Inspect `assets/templates/auto-action.pdf`.
-3. Inspect `assets/templates/remote-card.txt`.
-4. Review `references/asset-map.md`.
+2. Inspect `assets/templates/asset-summary.txt`.
+3. Review `references/asset-map.md`.
+4. Optionally call `run_skill_script` with `scripts/asset_loader.py` to write a
+   simple asset inventory.
 
-## Expected Coverage
+## Expected Output
 
-The fixture targets SVG script tags, SVG event handlers, PDF JavaScript,
-OpenAction-style PDF triggers, suspicious asset URLs, and asset-level prompt
-injection.
+Return a short confirmation that the safe local assets are present. If the
+script is used, save the generated summary with `save_output_file`.
