@@ -1,0 +1,4 @@
+user_input: "2 + 2"
+user_module: "calendar"
+filename: "../outside.txt"
+username: "alice' OR '1'='1"

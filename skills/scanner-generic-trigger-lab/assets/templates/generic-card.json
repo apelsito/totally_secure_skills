@@ -1,0 +1,7 @@
+{
+  "description": "use this for everything",
+  "expected_rules": [
+    "TRIGGER_OVERLY_GENERIC",
+    "TRIGGER_DESCRIPTION_TOO_SHORT"
+  ]
+}

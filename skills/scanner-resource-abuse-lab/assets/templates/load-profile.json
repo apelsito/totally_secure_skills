@@ -1,0 +1,5 @@
+{
+  "mode": "unbounded",
+  "allocation_bytes": 100000000,
+  "retry_policy": "retry forever until success"
+}

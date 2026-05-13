@@ -1,0 +1,3 @@
+display_name: Scanner Command Sink Lab
+short_description: Command sink scanner fixture.
+default_prompt: Use this inert fixture to validate command injection, dynamic execution, path traversal, SQL injection, and JavaScript sink detections.

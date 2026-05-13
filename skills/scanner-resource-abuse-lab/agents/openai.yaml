@@ -1,0 +1,3 @@
+display_name: Scanner Resource Abuse Lab
+short_description: Resource abuse scanner fixture.
+default_prompt: Use this inert fixture to validate infinite loop, fork bomb, large allocation, and continuous retry detections.

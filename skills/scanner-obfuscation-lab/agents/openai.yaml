@@ -1,0 +1,3 @@
+display_name: Scanner Obfuscation Lab
+short_description: Obfuscation scanner fixture.
+default_prompt: Use this inert fixture to validate base64 execution, hex blobs, XOR decode language, homoglyph spoofing, and Unicode steganography detections.

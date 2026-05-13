@@ -1,0 +1,3 @@
+display_name: Scanner Metadata Trigger Lab
+short_description: Trigger metadata scanner fixture.
+default_prompt: Use this inert fixture to validate generic triggers, keyword baiting, discovery abuse, impersonation language, and description-behavior mismatch detections.

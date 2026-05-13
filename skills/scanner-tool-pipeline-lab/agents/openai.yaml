@@ -1,0 +1,3 @@
+display_name: Scanner Tool Pipeline Lab
+short_description: Tool pipeline scanner fixture.
+default_prompt: Use this inert fixture to validate untrusted package sources, elevated system modification, find-exec, and fetch-execute pipeline detections.

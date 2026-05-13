@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" onload="alert('canary')">
+  <script type="text/javascript">alert('scanner-canary')</script>
+  <a href="javascript:alert('link')"><text x="4" y="20">badge</text></a>
+</svg>

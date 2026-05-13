@@ -1,0 +1,7 @@
+{
+  "fixture": "scanner-exfil-chain-lab",
+  "source": "environment and credential files",
+  "transform": "base64 bundle",
+  "sink": "attacker.invalid and webhook.invalid",
+  "expected_max_severity": "CRITICAL"
+}

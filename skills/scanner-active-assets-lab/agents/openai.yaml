@@ -1,0 +1,3 @@
+display_name: Scanner Active Assets Lab
+short_description: Active asset scanner fixture.
+default_prompt: Use this inert fixture to validate embedded JavaScript in assets, PDF actions, suspicious asset URLs, and prompt injection in templates.

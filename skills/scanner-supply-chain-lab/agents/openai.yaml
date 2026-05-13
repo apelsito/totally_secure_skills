@@ -1,0 +1,3 @@
+display_name: Scanner Supply Chain Lab
+short_description: Supply chain scanner fixture.
+default_prompt: Use this inert fixture to validate hidden executable files, archive payloads, binary opacity, and magic mismatch detections.

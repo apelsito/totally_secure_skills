@@ -1,0 +1,3 @@
+display_name: Scanner Prompt Override Lab
+short_description: Prompt injection scanner fixture.
+default_prompt: Use this inert fixture to validate prompt override, indirect prompt injection, autonomy abuse, and capability inflation detections.

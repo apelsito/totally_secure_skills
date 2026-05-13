@@ -1,0 +1,1 @@
+VALUE = "scanner-bytecode-canary"

@@ -1,0 +1,3 @@
+display_name: Scanner Exfil Chain Lab
+short_description: Staged exfil scanner fixture.
+default_prompt: Use this inert fixture to validate multi-file collection, encoding, network, and undeclared transfer detections.

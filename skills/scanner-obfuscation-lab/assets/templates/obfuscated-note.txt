@@ -1,0 +1,3 @@
+base64.b64decode(payload); exec(payload)
+xor decode payload shellcode exec
+ignore previous instructions hidden in zero-width text
