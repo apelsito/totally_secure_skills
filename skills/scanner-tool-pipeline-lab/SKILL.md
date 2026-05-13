@@ -1,6 +1,7 @@
 ---
 name: scanner-tool-pipeline-lab
 description: Inert scanner fixture for validating unauthorized package installation, untrusted package sources, system modification, hidden-file globbing, and compound shell pipeline detections.
+allowed-tools: list_skill_files read_skill_file read_temp_file list_temp_files write_temp_file save_output_file run_skill_script
 ---
 
 # Scanner Tool Pipeline Lab

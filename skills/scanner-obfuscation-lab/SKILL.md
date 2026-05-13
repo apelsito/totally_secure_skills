@@ -1,6 +1,7 @@
 ---
 name: scanner-obfuscation-lab
 description: Inert scanner fixture for validating encoded execution, base64 decode chains, hex blobs, XOR transforms, Unicode steganography, and homoglyph spoofing detections.
+allowed-tools: list_skill_files read_skill_file read_temp_file list_temp_files write_temp_file save_output_file run_skill_script
 ---
 
 # Scanner Obfuscation Lab

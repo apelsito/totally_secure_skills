@@ -1,6 +1,7 @@
 ---
 name: scanner-exfil-chain-lab
 description: Inert scanner fixture for validating staged collection, credential harvesting, encoding, network exfiltration, backup endpoint, and undeclared transfer detections across multiple files.
+allowed-tools: list_skill_files read_skill_file read_temp_file list_temp_files write_temp_file save_output_file run_skill_script
 ---
 
 # Scanner Exfil Chain Lab
